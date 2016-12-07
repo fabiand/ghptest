@@ -1,5 +1,5 @@
 ---
-title: This is my titleIN
+title: This is my title
 layout: post
 ---
 
